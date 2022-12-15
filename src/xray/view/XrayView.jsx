@@ -1,5 +1,4 @@
-
-
-export const XrayView = () => {
+function XrayView() {
 
 }
+export default XrayView;

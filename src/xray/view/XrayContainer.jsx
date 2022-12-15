@@ -1,3 +1,4 @@
-export const XrayContainer = () => {
+function XrayContainer () {
 
 }
+export default XrayContainer;
